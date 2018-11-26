@@ -1,2 +1,2 @@
 # elinsun
-multi class text classification for advanced machine learning assignment 4
+demo - multi class text classification - advanced machine learning assignment 4
