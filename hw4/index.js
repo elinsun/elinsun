@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'They are seemingly working, but their thoughts wander towards the women they love',
+      'He says, very low:  “Tramp--tramp--tramp; that's the dead; tramp--tramp--tramp; they're coming after me; but I won't go',
   'example2':
-      'Let us strike the key-note, Coketown, before pursuing our tune',
+      'Strangers, modest enough elsewhere, started up at dinners in Coketown, and boasted, in quite a rampant way, of Bounderby',
   'example3':
-      'She was sensible and clever; but eager in everything: her sorrows, her joys, could have no moderation.'      
+      'The shadings have not been done in a haphazard fashion, or by guesswork; but painstakingly, and with the trustworthy guidance and support of personal familiarity with these several forms of speech'      
 };
 
 function status(statusText) {
