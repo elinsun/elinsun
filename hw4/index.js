@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Let us strike the key-note, Coketown, before pursuing our tune',
+      'They are seemingly working, but their thoughts wander towards the women they love',
   'example2':
-      'They are seemingly working, but their thoughts wander towards the women they love.',
+      'Let us strike the key-note, Coketown, before pursuing our tune',
   'example3':
       'She was sensible and clever; but eager in everything: her sorrows, her joys, could have no moderation.'      
 };
