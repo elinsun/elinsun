@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'Let us strike the key-note, Coketown, before pursuing our tune',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'They are seemingly working, but their thoughts wander towards the women they love.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'She was sensible and clever; but eager in everything: her sorrows, her joys, could have no moderation.'      
 };
 
 function status(statusText) {
