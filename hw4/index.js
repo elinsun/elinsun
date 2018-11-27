@@ -8,9 +8,9 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'He says, very low:  Tramp--tramp--tramp; that s the dead; tramp--tramp--tramp; they re coming after me; but I won t go.',
+      'Pap was standing over me looking sour and sick, too',
   'example2':
-      'Strangers, modest enough elsewhere, started up at dinners in Coketown, and boasted, in quite a rampant way, of Bounderby.',
+      'Indeed, Thomas did not look at him, but gave himself up to be taken home like a machine',
   'example3':
       'She was perfectly disposed to make every allowance for the colonel s advanced state of life which humanity required.'      
 };
