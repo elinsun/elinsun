@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'He says, very low:  “Tramp--tramp--tramp; that's the dead; tramp--tramp--tramp; they're coming after me; but I won't go.',
+      'He says, very low:  Tramp--tramp--tramp; that s the dead; tramp--tramp--tramp; they re coming after me; but I won t go.',
   'example2':
       'Strangers, modest enough elsewhere, started up at dinners in Coketown, and boasted, in quite a rampant way, of Bounderby.',
   'example3':
-      'She was perfectly disposed to make every allowance for the colonel's advanced state of life which humanity required.'      
+      'She was perfectly disposed to make every allowance for the colonel s advanced state of life which humanity required.'      
 };
 
 function status(statusText) {
