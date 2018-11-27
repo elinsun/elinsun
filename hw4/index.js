@@ -8,11 +8,11 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'He says, very low:  “Tramp--tramp--tramp; that's the dead; tramp--tramp--tramp; they're coming after me; but I won't go',
+      'He says, very low:  “Tramp--tramp--tramp; that's the dead;',
   'example2':
-      'Strangers, modest enough elsewhere, started up at dinners in Coketown, and boasted, in quite a rampant way, of Bounderby',
+      'Strangers, modest enough elsewhere, started up at dinners in Coketown',
   'example3':
-      'The shadings have not been done in a haphazard fashion, or by guesswork; but painstakingly, and with the trustworthy guidance and support of personal familiarity with these several forms of speech'      
+      'The shadings have not been done in a haphazard fashion, or by guesswork;'      
 };
 
 function status(statusText) {
