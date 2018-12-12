@@ -1,6 +1,6 @@
 # elinsun.github.io
 
-Fall2018, COMS4995 advanced machine learning, assignment 4
+Fall2018, COMS4995 applied deep learning, assignment 4
 
 multi-class text classification
 
